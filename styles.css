@@ -5,5 +5,12 @@ body {
 }
 
 .mySlides {
-    display: none
+    display: none;
+    z-index: 1;
+    position: relative;
+}
+
+#logo {
+    z-index: 2;
+    position: relative;
 }
