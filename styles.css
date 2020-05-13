@@ -13,4 +13,5 @@ body {
 .logo {
     z-index: 1;
     position: absolute;
+    margin-left: 30%;
 }
